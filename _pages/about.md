@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: 1709985435295.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Genetics</p>
     <p>Av. Pádua Dias, 11</p>
@@ -22,7 +22,3 @@ Proudly, Brazilian and Amazonian [(Belém - PA)](https://www.google.com/maps/pla
 
 I'm very interested in plant breeding, statistical and quantitative genetics and solutions to integrate data science into plant breeding routines. I also love football and music (progressive rock/metal rules!). 
 Feel free to contact me if you got interested in any of my research fields, or you're feeling like talking to someone!
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

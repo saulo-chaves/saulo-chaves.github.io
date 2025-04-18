@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - saulo-chaves
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - saulo-chaves/ProbBreed
+  - Kaio-Olimpio/GIS-FA
+  - Kaio-Olimpio/gencomp
+  - saulo-chaves/Vcov-RM-grandiflorum
+  - ufv-molecular-breeding-lab/schaves_sweetpotato_two_stage
