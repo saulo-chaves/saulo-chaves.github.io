@@ -128,7 +128,7 @@ ninja.data = [{
         title: 'Lattes',
         section: 'Socials',
         handler: () => {
-          window.open("http://lattes.cnpq.br/http://lattes.cnpq.br/7323802421710943", "_blank");
+          window.open("http://lattes.cnpq.br/7323802421710943", "_blank");
         },
       },{
         id: 'social-linkedin',
