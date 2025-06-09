@@ -64,8 +64,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-plant-breeding-undergraduates",
-          title: 'Plant breeding (undergraduates)',
+            },},{id: "projects-plant-breeding-for-undergraduates",
+          title: 'Plant breeding (for undergraduates)',
           description: "in Brazilian Portuguese",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
