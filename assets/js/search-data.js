@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "This page is under construction",
+          description: "Classes and Lectures",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -69,6 +69,11 @@ ninja.data = [{
           description: "in Brazilian Portuguese",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-genetics-for-undergraduates",
+          title: 'Genetics (for undergraduates)',
+          description: "in Brazilian Portuguese",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_genetica/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -109,7 +114,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Saulo-Chaves?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/Saulo-Chaves?ev=hdr_xprf/", "_blank");
         },
       },{
         id: 'social-rss',
