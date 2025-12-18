@@ -74,6 +74,11 @@ ninja.data = [{
           description: "in Brazilian Portuguese",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_genetica/";
+            },},{id: "projects-cau-usp-joint-college",
+          title: 'CAU-USP Joint College',
+          description: "Introductory quantitative genetics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_CAU/";
             },},{
         id: 'social-email',
         title: 'email',
