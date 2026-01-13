@@ -79,11 +79,6 @@ ninja.data = [{
           description: "Introductory quantitative genetics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_CAU/";
-            },},{id: "projects-4-lectures",
-          title: '4_lectures',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_lectures/";
             },},{
         id: 'social-email',
         title: 'email',
