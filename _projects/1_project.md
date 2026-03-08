@@ -16,7 +16,8 @@ related_publications: false
 <body>
   <ul>
     <li><a href="../../teaching/lgn0313/01_Intro.html">Introduction to Plant Breeding</a></li>
-    <li><a href="../../teaching/lgn0313/02_recurgen.html">Genetic resources and gene banks</a></li>
+    <li><a href="../../teaching/lgn0313/02_recurgen.html">Genetic Resources and Gene Banks</a></li>
+    <li><a href="../../teaching/lgn0313/03_experimental.html">Experimentation in Plant Breeding</a></li>
     <!-- Add more as needed -->
   </ul>
 </body>
