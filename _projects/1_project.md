@@ -19,6 +19,7 @@ related_publications: false
     <li><a href="../../teaching/lgn0313/02_recurgen.html">Genetic Resources and Gene Banks</a></li>
     <li><a href="../../teaching/lgn0313/03_experimental.html">Experimentation in Plant Breeding</a></li>
     <li><a href="../../teaching/lgn0313/04_sistrep.html">Reproductive systems and polyploidy</a></li>
+    <li><a href="../../teaching/lgn0313/05_bagen.html">Genetic basis of trait selection</a></li>
     <!-- Add more as needed -->
   </ul>
 </body>
