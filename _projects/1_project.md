@@ -24,6 +24,7 @@ related_publications: false
     <li><a href="../../teaching/lgn0313/07_clones.html">Breeding of asexually propagated species</a></li>
     <li><a href="../../teaching/lgn0313/08_autogamas.html">Breeding of self-pollinated species I</a></li>
     <li><a href="../../teaching/lgn0313/08_autogamasB.html">Breeding of self-pollinated species II</a></li>
+    <li><a href="../../teaching/lgn0313/09_alogamas.html">Breeding of cross-pollinated species I</a></li>
     <!-- Add more as needed -->
   </ul>
 </body>
