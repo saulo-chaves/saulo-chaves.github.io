@@ -23,7 +23,7 @@ related_publications: false
     <li><a href="../../teaching/lgn0313/06_selgen.html">Population genetics and parent selection</a></li>
     <li><a href="../../teaching/lgn0313/07_clones.html">Breeding of asexually propagated species</a></li>
     <li><a href="../../teaching/lgn0313/08_autogamas.html">Breeding of self-pollinated species I</a></li>
-    <li><a href="../../teaching/lgn0313/08_autogamas.html">Breeding of self-pollinated species II</a></li>
+    <li><a href="../../teaching/lgn0313/08_autogamasB.html">Breeding of self-pollinated species II</a></li>
     <!-- Add more as needed -->
   </ul>
 </body>
