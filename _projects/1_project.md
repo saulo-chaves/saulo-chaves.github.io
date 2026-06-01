@@ -26,6 +26,7 @@ related_publications: false
     <li><a href="../../teaching/lgn0313/08_autogamasB.html">Breeding of self-pollinated species II</a></li>
     <li><a href="../../teaching/lgn0313/09_alogamas.html">Breeding of cross-pollinated species I</a></li>
     <li><a href="../../teaching/lgn0313/09_alogamasB.html">Breeding of cross-pollinated species II</a></li>
+    <li><a href="../../teaching/lgn0313/10_rpc.html">Cultivar registration and protection</a></li>
     <!-- Add more as needed -->
   </ul>
 </body>
