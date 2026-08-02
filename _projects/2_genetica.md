@@ -15,7 +15,7 @@ related_publications: false
 </head>
 <body>
   <ul>
-    <li><a href="../../teaching/lgn0215/1_intro.html">Introduction class (the importance of genetics and molecular basis of genetics)</a></li>
+    <li><a href="../../teaching/lgn0215/1_intro.html">Introduction to Genetics and molecular basis of inheritance</a></li>
     <li><a href="../../teaching/lgn0215/2_getrans1.html">Mendelian genetics (First Law of Inheritance)</a></li>
     <li><a href="../../teaching/lgn0215/3_getrans2.html">Mendelian genetics (extensions to the First Law of Inheritance)</a></li>
     <li><a href="../../teaching/lgn0215/4_getrans3.html">Mendelian genetics (Second Law of Inheritance)</a></li>
