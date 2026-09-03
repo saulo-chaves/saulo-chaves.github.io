@@ -17,7 +17,7 @@ related_publications: false
   <ul>
     <li><a href="../../teaching/gs_gvenck/day1.html">Day 1: Fundamentals of genomic selection</a></li>
     <li><a href="../../teaching/gs_gvenck/day2.html">Day 2: Genomic selection under the genotype-by-environment interaction</a></li>
-    <li><a href="../../teaching/gs_gvenck/day2.html">Day 2: Genomic selection models enriched with environmental data</a></li>
+    <li><a href="../../teaching/gs_gvenck/day3.html">Day 3: Genomic selection models enriched with environmental data</a></li>
   <!-- Add more as needed -->
   </ul>
 </body>
