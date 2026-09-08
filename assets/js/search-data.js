@@ -84,6 +84,11 @@ ninja.data = [{
           description: "A three-day online short-course on genomic selection given by me and organized by GVENCK (ESALQ). Find the data used in the codes in https://github.com/saulo-chaves/GS_GVENCK",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_GS_GVENCK/";
+            },},{id: "projects-genetic-competition-mixed-models-using-gencomp",
+          title: 'Genetic competition mixed models using gencomp',
+          description: "A short-course on mixed models applied to genetic competition analysis using the gencomp package",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_gencomp/";
             },},{
         id: 'social-email',
         title: 'email',
