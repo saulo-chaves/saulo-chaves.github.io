@@ -3,7 +3,7 @@ layout: page
 title: Data Science for Plant Breeding Lab
 description: A very short presentation on the lab's current projects
 img: assets/img/logolab9.png
-importance: 2
+importance: 1
 category: work
 related_publications: false
 ---
